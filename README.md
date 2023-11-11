@@ -43,7 +43,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
-- [Tailwind CSS](https://styled-components.com/) - For styles
+- [Tailwind CSS](https://tailwindcss.com/) - For styles
 
 ## Author
 
